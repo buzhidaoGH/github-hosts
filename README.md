@@ -27,3 +27,5 @@
 其接口大大简化了我的开发的路程，且提供的ip非常完善。
 + api地址：https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts
 + 如果不想用此api地址，可以通过 [IPAddress](https://www.ipaddress.com/) 来实现手动爬取解析的ip地址结果
+
+**PS：如果刷新了hosts后依然不好用（那就将github.com那一行手动删除，毕竟ip地址非最新，建议使用IPAddress）**
